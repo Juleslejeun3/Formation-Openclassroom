@@ -1,0 +1,3 @@
+user: juleslejeun3_db_user
+
+mdp: zP6YNh7czam2iIev
